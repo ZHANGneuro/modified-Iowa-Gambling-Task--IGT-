@@ -1,7 +1,7 @@
 modified-Iowa-Gambling-Task--IGT
 =================================
 
-1. Introdution to this script:
+*. Introdution to this script:
 
 This matlab-based script implements a version of the modified Iowa Gambling Task (IGT) as described in: 
 
@@ -13,13 +13,13 @@ Bechara A., Damasio A. R., Damasio H., Anderson S. W. (1994).
 Insensitivity to future consequences following damage to human prefrontal cortex. Cognition, 50, 7-15 .
 
 
-2. To perform and quit the script:
+*. To perform and quit the script:
 
 type 'igt(Subject_ID)' in Matlab command window, ex. igt(1),
 igt(2).... or igt(n). for quiting, type 'ESC'. Experimental result is stored in "result" folder with '.mat' extension. 
 
 
-3. Experimental instruction:
+*. Experimental instruction:
 
 "In this game, your goal is to win as much money as possible. 
 
@@ -30,7 +30,7 @@ If you PLAY, you can win but also lose money (or neither win nor lose money).
 If you PASS you neither win nor lose any money.
 Some decks will be more profitable than others.
 
-Place your index fingers on the <%values.playkey_label%> and <%values.passkey_label%> - keys on your keyboard.
+Place your index fingers on the <a> and <l> - keys on your keyboard.
 To PLAY, press the  <a> -key. 
 To PASS, press the <l> -key. 
 You start with $2000."
