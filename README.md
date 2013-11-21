@@ -5,7 +5,7 @@ modified-Iowa-Gambling-Task--IGT
 
 This matlab-based script implements a version of the modified Iowa Gambling Task (IGT) as described in: 
 
-Cauffman, E., Shulman, E.P, Steinberg, L., Claus, E., Marie T. Banich, M.T., Sandra Graham, S., &amp; Jennifer Woolard, J. (2010). Age Differences in Affective Decision Making as Indexed by Performance on the Iowa Gambling Task. Developmental Psychology, Vol. 46, No. 1, 193-207.
+Cauffman, E., Shulman, E.P, Steinberg, L., Claus, E., Marie T. Banich, M.T., Sandra Graham, S., Jennifer Woolard, J. (2010). Age Differences in Affective Decision Making as Indexed by Performance on the Iowa Gambling Task. Developmental Psychology, Vol. 46, No. 1, 193-207.
 
 As for the original Iowa Gambling Task (IGT) please refer to the paper published earlier as shown
 below:
@@ -30,9 +30,9 @@ If you PLAY, you can win but also lose money (or neither win nor lose money).
 If you PASS you neither win nor lose any money.
 Some decks will be more profitable than others.
 
-Place your index fingers on the <a> and <l> - keys on your keyboard.
-To PLAY, press the  <a> -key. 
-To PASS, press the <l> -key. 
+Place your index fingers on the 'a' and 'l' keys on your keyboard.
+To PLAY, press the  'a' key. 
+To PASS, press the 'l' -key. 
 You start with $2000."
 
 
