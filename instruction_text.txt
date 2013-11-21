@@ -1,0 +1,13 @@
+In this game, your goal is to win as much money as possible. 
+
+For each round, a yellow arrow above one of the four decks of cards above signals that you can make a decision between playing or passing a card from this deck.
+You will have 4s to decide.
+
+If you PLAY, you can win but also lose money (or neither win nor lose money).
+If you PASS you neither win nor lose any money.
+Some decks will be more profitable than others.
+
+Place your index fingers on the <a> and <l> - keys on your keyboard.
+To PLAY, press the  <a> -key. 
+To PASS, press the <l> -key. 
+
